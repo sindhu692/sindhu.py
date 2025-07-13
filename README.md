@@ -13,6 +13,8 @@ This repository is a collection of my mini Python projects as I continue my jour
 | 3)  contacts.py                | Add, search, and manage your personal contacts easily.                      |
 | 4)  grocery_store.py           | Simulate a mini grocery store with item selection and total bill calc.      |
 | 5)  mini_shopping_cart.py      | A shopping cart simulation — select items, calculate total, and checkout.   |
+| 6)  student_marks_analyzer     | Analyze student marks using NumPy — calculate averages, grades,             |
+|                                | and find class/subject-wise toppers.                                        |
 
 ---
 
@@ -24,6 +26,7 @@ This repository is a collection of my mini Python projects as I continue my jour
 - User input interaction
 - Beginner-friendly logic
 - Jupyter notebook
+- Google colab
 
 ---
 
