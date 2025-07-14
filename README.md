@@ -23,7 +23,7 @@ This repository is a collection of my mini Python projects as I continue my jour
 ##  Features Used:
 
 - Python 3.x
-- Dictionaries, Loops, Functions
+- Dictionaries, Loops, Functions,Arrays,NumPy
 - File handling (`json`)
 - User input interaction
 - Beginner-friendly logic
