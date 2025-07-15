@@ -17,7 +17,12 @@ This repository is a collection of my mini Python projects as I continue my jour
 |                                |  and find class/subject-wise toppers.                                       |
 | 7)  Stock_Price_Analyzer       | Analyze stock price using NumPy — providing insights like highest, lowest,  |
 |                                |  average prices, percentage change, and detecting price spikes.             |
-
+| 8)Power_Usage_Classifier       | Classify 7-day household power usage based on user input.Using NumPy arrays,|
+|                                |  it categorizes each day into low, moderate, or high usage, helping to      |
+|                                |  visualize electricity consumption patterns.                                |
+| 9)Hospital_Patient_Analyzer    | Analyze hospital records using Pandas — calculates average admitted days,   |
+|                                |  identifies highest billed patient, filters seniors above age 60, summarizes|
+|                                |  disease statistics, and visualizes results using bar and pie charts.       |
 ---
 
 ##  Features Used:
