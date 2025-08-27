@@ -4,8 +4,8 @@
 
 This repository is a collection of my mini Python projects as I continue my journey of becoming a Python Master 
 
-## Projects Included:
-|-------------------------------------------------------------------------------------------------------------------|
+## Projects Includ
+
 | Project Name                       | Description                                                                  |
 |------------------------------------|------------------------------------------------------------------------------|
 | 1)  daily_task_manager.py          | Manage your daily tasks with add, view, delete, and save/load features.      |
